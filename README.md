@@ -11,12 +11,7 @@ industria del videojuego, aportando soluciones creativas y efectivas.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JFresnedaFuentespina&theme=transparent&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🛠 Skills
-* Java
-* Springboot
-* Python
-* FastAPI
-* C++
-* Unity
-* HTML
-* CSS
-* JavaScript
+* Lenguajes: Java, Springboot, Python, FastAPI, HTML, CSS, JavaScript.
+* Bases de datos: SQL, MYSQL, Postgresql, Hibernate.
+* Videojuegos: C++, Unity. 
+* Herramientas: Docker, Git.
