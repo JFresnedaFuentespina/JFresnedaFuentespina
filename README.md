@@ -1,5 +1,3 @@
-
-# Hola! Soy Jesús!
 ![jesus_banner](jesus_banner.png)
 
 Desarrollador apasionado por la creación de experiencias de juego
