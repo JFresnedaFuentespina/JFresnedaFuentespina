@@ -1,6 +1,6 @@
 
 # Hola! Soy Jesús!
-![jesus_banner](jesus_banner)
+![jesus_banner](jesus_banner.png)
 
 Desarrollador apasionado por la creación de experiencias de juego
 envolventes, con experiencia en Python y una sólida comprensión de C++ y Java. Me
