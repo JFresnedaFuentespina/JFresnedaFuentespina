@@ -1,7 +1,7 @@
 ![jesus_banner](jesus_banner.png)
 
 Desarrollador apasionado por la creación de experiencias de juego
-envolventes, con experiencia en Python y una sólida comprensión de C++ y Java. Me
+envolventes, con experiencia en Python y una sólida comprensión de C# y Java. Me
 especializo en trabajar colaborativamente para llevar conceptos de juego
 creativos a la realidad, aprovechando herramientas como Unity para
 desarrollar juegos de alta calidad. Comprometido a seguir adelante en la
